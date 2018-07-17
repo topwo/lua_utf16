@@ -1,4 +1,4 @@
-﻿
+local bit32 = require("bit")
 --utf16 to utf8
 
 misc_utf16={}
